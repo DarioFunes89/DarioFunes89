@@ -61,9 +61,9 @@
 
 
 ## Contáctame
- Mail: dariofunes89@gmail.com
- LinkedIn: https://www.linkedin.com/in/dario-andres-funes-fullstackdev/
- Github: https://github.com/DarioFunes89
+<p> Mail: dariofunes89@gmail.com </p>
+<p> LinkedIn: https://www.linkedin.com/in/dario-andres-funes-fullstackdev/ </p>
+<p> Github: https://github.com/DarioFunes89 </p>
 
   
   
