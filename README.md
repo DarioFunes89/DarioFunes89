@@ -6,9 +6,9 @@
 ### <div align="center">Hola! me llamo Darío y soy Fullstack Developer 👨‍💻🚀</div>  
   
 
-- 🔭Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me encanta encontrar soluciones a los problemas de la vida cotidiana en código.  
+- Actualmente me estoy desempeñando como teaching assistent en Soy Henry durante la cursada de futuros programadores, brindándole herramientas y conocimientos. También me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me encanta encontrar soluciones a los problemas de la vida cotidiana en código.  
   
-- 🌱 Estoy estudiando otras tecnologias como Docker y Mongo DB para el back end que es lo que me apasiona  
+- Estoy estudiando otras tecnologias como Docker y Mongo DB para el back end que es lo que me apasiona  
   
 
 <br/>  
