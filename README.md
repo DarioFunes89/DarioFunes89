@@ -5,7 +5,7 @@
 
 ### <div align="center">Hola! me llamo Darío y soy Fullstack Developer 👨‍💻🚀</div>  
 
-Me apasiona el mundo de la programación, sobre todo el back end y mi objetivo es desarrollarme como profesional dentro del mundo IT, ampliando mi experiencia y conocimientos de forma constante en las tecnologías mas modernas.
+Me apasiona el mundo de la programación, mi objetivo es desarrollarme como profesional dentro del mundo IT, ampliando mi experiencia y conocimientos de forma constante en las tecnologías mas modernas.
 
 Actualmente me estoy desempeñando como teaching assistent en Soy Henry durante la cursada de futuros programadores, brindándole herramientas y conocimientos. También me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me encanta encontrar soluciones a los problemas de la vida cotidiana en código. 
 
