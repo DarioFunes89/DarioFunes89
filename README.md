@@ -7,7 +7,7 @@
 
 Me apasiona el mundo de la programación, mi objetivo es desarrollarme como profesional dentro del mundo IT, ampliando mi experiencia y conocimientos de forma constante en las tecnologías mas modernas.
 
-Actualmente me estoy desempeñando como teaching assistent en Soy Henry durante la cursada de futuros programadores, brindándole herramientas y conocimientos. También me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me encanta encontrar soluciones a los problemas de la vida cotidiana en código. 
+Actualmente estoy trabajando como freelancer diseñando y desarrollando. Mi objetivo es cumplir el 100% de las peticiones de mis clientes asi que si tienes una idea para realizar, desde una simple pagina, una tienda o algun software para ayudarte en tu negocio, no dudes en escribirme. 
 
 <br/>  
 
