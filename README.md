@@ -5,8 +5,6 @@
 
 ### <div align="center">Hola! me llamo Darío y soy Fullstack Developer 👨‍💻🚀</div>  
 
-Me apasiona el mundo de la programación, mi objetivo es desarrollarme como profesional dentro del mundo IT, ampliando mi experiencia y conocimientos de forma constante en las tecnologías mas modernas.
-
 Actualmente estoy trabajando como freelancer diseñando y desarrollando. Mi objetivo es cumplir el 100% de las peticiones de mis clientes asi que si tienes una idea para realizar, desde una simple pagina, una tienda o algun software para ayudarte en tu negocio, no dudes en escribirme. 
 
 <br/>  
