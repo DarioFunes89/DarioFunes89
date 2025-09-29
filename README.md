@@ -58,8 +58,7 @@ Hi, I'm Darío Funes, a Full Stack Developer 🚀 from Córdoba, Argentina. I'm 
 <br/>  
 
 
-## Contáctame
-<p> Mail: dariofunes89@gmail.com </p>
+
 <p> LinkedIn: https://www.linkedin.com/in/dario-andres-funes-fullstackdev/ </p>
 <p> Github: https://github.com/DarioFunes89 </p>
 
