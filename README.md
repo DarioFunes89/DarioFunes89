@@ -1,16 +1,18 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+### Hey 👋🏽, I'm  Darío
+<br/>
 
-### <div align="center">Hola! me llamo Darío y soy Fullstack Developer 👨‍💻🚀</div>  
-
-Actualmente estoy trabajando como freelancer diseñando y desarrollando. Mi objetivo es cumplir el 100% de las peticiones de mis clientes asi que si tienes una idea para realizar, desde una simple pagina, una tienda o algun software para ayudarte en tu negocio, no dudes en escribirme. 
-
+Hi, I'm Darío Funes, a Full Stack Developer 🚀 from Córdoba, Argentina. I'm a creative problem solving enthusiast, with a constantly growing love for programming languages.
 <br/>  
 
+**Talking about Personal Stuffs:**
 
-## Tecnologías que utilizo
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Anything is possible;
+- 📫 How to reach me: dariofunes89@gmail.com;
+
+
+**Languages and Tools:** 
 <table><tr><td valign="top" width="90%">
 
 
