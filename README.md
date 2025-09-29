@@ -11,7 +11,7 @@ Actualmente estoy trabajando como freelancer diseñando y desarrollando. Mi obje
 
 
 ## Tecnologías que utilizo
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="90%">
 
 
 
