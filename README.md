@@ -32,7 +32,7 @@ Through **Ferience**, I design and develop websites and landing pages focused on
 
 Helping businesses turn visitors into customers through modern websites.
 
-👉 https://ferience.lovable.app/
+👉 https://ferience-front.vercel.app/
 
 <br/>
 
@@ -154,7 +154,7 @@ Helping businesses turn visitors into customers through modern websites.
 
 💻 GitHub: https://github.com/DarioFunes89
 
-🌐 Ferience: https://ferience.lovable.app/
+🌐 Ferience: https://ferience-front.vercel.app/
 
 <br/>
 
