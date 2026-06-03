@@ -1,68 +1,163 @@
-### Hey 👋🏽, I'm  Darío!
+# Hey 👋, I'm Darío Funes
+
+### Full Stack Developer & Founder of Ferience 🚀
+
+I'm a Full Stack Developer from Córdoba, Argentina 🇦🇷 passionate about building modern web experiences that help businesses grow.
+
+Through **Ferience**, I design and develop websites and landing pages focused on generating leads, increasing conversions, and creating a strong online presence.
+
 <br/>
 
-Hi, I'm Darío Funes, a Full Stack Developer 🚀 from Córdoba, Argentina. I'm a creative problem solving enthusiast, with a constantly growing love for programming languages.
-<br/>  
+### 🚀 What I Do
 
-**Talking about Personal Stuffs:**
+* 🌐 Business Websites
+* 📈 High-Converting Landing Pages
+* ⚛️ React & Next.js Development
+* 🔧 Full Stack Applications
+* 📱 Mobile-First Design
+* ⚡ Performance & SEO Optimization
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: dariofunes89@gmail.com;
+<br/>
 
+### 📌 Currently
 
-**Languages and Tools:** 
-<table><tr><td valign="top" width="90%">
+* 👨🏽‍💻 Building and growing Ferience
+* 🚀 Developing websites and landing pages for businesses
+* 📚 Continuously learning and improving my technical skills
+* 🤝 Open to freelance and collaboration opportunities
 
+<br/>
 
+### 🌐 Ferience
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+Helping businesses turn visitors into customers through modern websites.
+
+👉 https://ferience.lovable.app/
+
+<br/>
+
+### 🛠️ Languages and Tools
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+
+<div align="center">
+
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+</a>
+
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="50" />
+</a>
+
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
+<td valign="top" width="33%">
 
+### Backend
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<div align="center">
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+</a>
+
+<a href="https://www.strapi.io/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" />
+</a>
+
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
+<td valign="top" width="33%">
 
+### DevOps & Tools
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<div align="center">
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" />
+</a>
+
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>
 
-<br/>  
+<br/>
 
+### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioFunes89\&show_icons=true\&theme=tokyonight)
 
-<p> LinkedIn: https://www.linkedin.com/in/dario-andres-funes-fullstackdev/ </p>
-<p> Github: https://github.com/DarioFunes89 </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioFunes89\&layout=compact\&theme=tokyonight)
 
-  
-  
+<br/>
 
-<br/>  
+### 🤝 Connect With Me
+
+📧 Email: [dariofunes89@gmail.com](mailto:dariofunes89@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/dario-andres-funes-fullstackdev/
+
+💻 GitHub: https://github.com/DarioFunes89
+
+🌐 Ferience: https://ferience.lovable.app/
+
+<br/>
+
+### ⚡ Fun Fact
+
+"Anything is possible when you keep building."
