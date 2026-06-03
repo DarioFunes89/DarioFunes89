@@ -33,9 +33,9 @@ Through **Ferience**, I design and develop websites and landing pages focused on
 ### 🌐 Ferience
 Modern websites and landing pages designed to generate more leads and sales.
 
-🔗 https://ferience.lovable.app
+🔗 https://ferience-front.vercel.app/
 
-### 💻 React & Next.js Applications
+### 💻 React & Angular Applications
 Custom web applications with modern technologies.
 
 ### 📱 Responsive Websites
