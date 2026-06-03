@@ -28,11 +28,21 @@ Through **Ferience**, I design and develop websites and landing pages focused on
 
 <br/>
 
+## 🚀 Featured Projects
+
 ### 🌐 Ferience
+Modern websites and landing pages designed to generate more leads and sales.
 
-Helping businesses turn visitors into customers through modern websites.
+🔗 https://ferience.lovable.app
 
-👉 https://ferience-front.vercel.app/
+### 💻 React & Next.js Applications
+Custom web applications with modern technologies.
+
+### 📱 Responsive Websites
+Optimized for desktop, tablet and mobile devices.
+
+### ⚡ SEO & Performance
+Fast-loading websites built for growth.
 
 <br/>
 
@@ -135,14 +145,6 @@ Helping businesses turn visitors into customers through modern websites.
 </td>
 </tr>
 </table>
-
-<br/>
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioFunes89\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioFunes89\&layout=compact\&theme=tokyonight)
 
 <br/>
 
