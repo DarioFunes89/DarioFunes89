@@ -33,7 +33,7 @@ Through **Ferience**, I design and develop websites and landing pages focused on
 ### 🌐 Ferience
 Modern websites and landing pages designed to generate more leads and sales.
 
-🔗 https://ferience-front.vercel.app/
+🔗 https://ferienceweb.vercel.app/
 
 ### 💻 React & Angular Applications
 Custom web applications with modern technologies.
@@ -156,7 +156,7 @@ Fast-loading websites built for growth.
 
 💻 GitHub: https://github.com/DarioFunes89
 
-🌐 Ferience: https://ferience-front.vercel.app/
+🌐 Ferience: https://ferienceweb.vercel.app/
 
 <br/>
 
